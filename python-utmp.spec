@@ -1,7 +1,7 @@
 Summary:	Python modules for umtp records
 Name:		python-utmp
 Version:	0.7
-Release:	2
+Release:	3
 License:	Copyright only
 Group:		Libraries
 Source0:	http://kassiopeia.juls.savba.sk/~garabik/software/python-utmp/old/%{name}_%{version}.tar.gz
